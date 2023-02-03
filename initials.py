@@ -1,0 +1,7 @@
+print('N       N     A')
+print('N N     N   A   A')
+print('N  N    N  A     A')
+print('N   N   N  AAAAAAA')
+print('N    N  N  A     A')
+print('N     N N  A     A')
+print('N       N  A     A')
